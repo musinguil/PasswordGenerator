@@ -11,7 +11,6 @@
 import random
 
 # program
-
 count = input("How many character do you want ? ")
 for item in range(int(count)):
     character = [chr(random.randint(48, 57)), chr(random.randint(65, 90)), chr(random.randint(97, 122))]
