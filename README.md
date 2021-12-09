@@ -1,5 +1,5 @@
 # PasswordGenerator
-This script simply generate you a complex code with the lenght you want.
+This script simply generates you a complexe password with the lenght you precise.
 ## Run the script
 ```
   git clone https://github.com/musinguil/PasswordGenerator.git
